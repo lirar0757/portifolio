@@ -26,7 +26,7 @@ Este projeto foi desenvolvido para apresentar meus trabalhos, habilidades e expe
 ## 🔗 Acesso ao projeto
 
 Você pode acessar o projeto aqui:  
-👉 **[Link do projeto](#)**
+👉 **[Link do projeto][(#)**](https://portifolio-gold-one.vercel.app/)
 
 ## 👨‍💻 Feito por
 
