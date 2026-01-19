@@ -141,11 +141,12 @@ body{
  }
 
  .cabecalho {
-  padding: 10%;
+  padding: 16px 12px;
  }
 
 .cabecalho__menu {
   justify-content: center;
 }
+
 
 }
